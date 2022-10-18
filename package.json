@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-survey",
-  "version": "3.1.2",
+  "version": "3.2.0",
   "description": "Simple JSON powered surveys for React Native",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,7 @@
     "eslint": "^5.14.1"
   },
   "dependencies": {
-    "react-native-selection-group": "^2.0.0"
+    "react-native-selection-group": "^2.0.0",
+    "deprecated-react-native-prop-types": "^2.3.0"
   }
 }
